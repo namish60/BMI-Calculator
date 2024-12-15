@@ -1,1 +1,1 @@
-# BMI-Calculator
+A simple Python project to calculate BMI, built with PyWebIO for an interactive web-based user interface. Users can input their height and weight to get their BMI value along with a health status interpretation (e.g., Underweight, Normal, Overweight).
